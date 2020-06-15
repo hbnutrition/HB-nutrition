@@ -599,7 +599,7 @@ img{
 	position:relative;
 	display:block;
 	padding:8px 0px;
-	color:#ffffff;
+	color:#4c0827;
 	line-height:24px;
 	text-transform:uppercase;
 	letter-spacing:0px;
@@ -1278,7 +1278,7 @@ img{
 	bottom:0px;
 	width:100%;
 	color:#ffffff;
-	background:rgba(29,40,2,0.90);
+	background:#fbdce2;
 	padding:15px 15px 15px 80px;
 	transition: all 500ms ease;
 	-webkit-transition: all 500ms ease;
@@ -1298,7 +1298,7 @@ img{
 }
 
 .featured-service .image-box .caption-box .title a{
-	color:#ffffff;
+	color:#c95d63;
 }
 
 .featured-service .image-box .icon{
@@ -1321,8 +1321,8 @@ img{
 	bottom:-100%;
 	width:100%;
 	height:100%;
-	color:#ffffff;
-	background:rgba(29,40,2,0.90);
+	color:#c95d63;
+	background:#fbdce2;
 	padding:20px 30px 20px 90px;
 	transition: all 500ms ease;
 	-webkit-transition: all 500ms ease;
@@ -1365,7 +1365,7 @@ img{
 
 .featured-service .overlay-box .text{
 	font-size:14px;
-	color:#ffffff;
+	color:#c95d63;
 	line-height:1.8em;
 }
 
@@ -2463,7 +2463,7 @@ img{
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:left center;
-	color:#ffffff;
+	color:#4c0827;
 }
 
 .main-footer a,
@@ -2510,7 +2510,7 @@ img{
 	font-weight:500;
 	text-transform:capitalize;
 	margin-bottom:30px;
-	color:#ffffff;	
+	color:#4c0827;	
 }
 
 .main-footer .about-widget .text{
@@ -2627,7 +2627,7 @@ img{
 	display:block;
 	line-height:24px;
 	padding:5px 14px;
-	color:#9e9e9e;
+	color:#c95d63;
 	text-transform:capitalize;
 	border:1px solid rgba(255,255,255,0.10);
 	min-width:50px;
@@ -2759,6 +2759,7 @@ img{
 	line-height:24px;
 	font-size:15px;
 	background:#da627d;
+	color: #fff;
 }
 
 .main-footer .footer-bottom .author-name{
