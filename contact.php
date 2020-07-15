@@ -163,7 +163,7 @@
       >
         <div class="auto-container">
           <h1>Contact</h1>
-          <h3 class="styled-font">Good Habits, Good Life</h3>
+          <h3 class="styled-font">We Offer healthier lifestyle.</h3>
         </div>
       </section>
 
@@ -230,12 +230,11 @@
                       </div>
 
                       <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                       <input
-                          type="text"
-                          name="subject"
-                          value=""
-                          placeholder="Subject"
-                        />
+                        <select name="subject">
+                          <option>Subject</option>
+                          <option>Wooden Flooring</option>
+                          <option>Metal Flooring</option>
+                          <option>Concrete Flooring</option>
                         </select>
                       </div>
 
@@ -283,8 +282,8 @@
                           </div>
                           <h4>Address :</h4>
                           <div class="text">
-                            A-1111 ,Titanium Height Opposite Vodafone House
-                            <br />,Corporate Road,Ahmedabad-380015
+                            21/17, Level 4 Steel Rock St, Newyork City
+                            <br />Victoria 3000, USA.
                           </div>
                         </li>
                         <li>
@@ -292,14 +291,14 @@
                             <span class="flaticon-envelope"></span>
                           </div>
                           <h4>Ask Some Thing Us :</h4>
-                          <div class="text">info@hbnutritions.com</div>
+                          <div class="text">Mail@HealthCoach.com</div>
                         </li>
                         <li>
                           <div class="icon-box">
                             <span class="flaticon-technology-1"></span>
                           </div>
                           <h4>Call Us:</h4>
-                          <div class="text">+91 9316041617</div>
+                          <div class="text">+123-456-7890 , 1-800-425-8910</div>
                         </li>
                       </ul>
                     </div>
@@ -382,8 +381,8 @@
                           <li>
                             <span class="icon fa fa-mail-forward"></span
                             ><strong>Email:</strong>
-                            <a href="info@hbnutritions.com"
-                              >info@hbnutritions.com</a
+                            <a href="mailto:info@hbnutricians.com"
+                              >info@hbnutricians.com</a
                             >
                           </li>
                           <li>
@@ -411,11 +410,11 @@
                         <h2>Popular Tags</h2>
                         <div class="widget-content">
                           <ul class="tags-list">
-                            <li><a href="#">Covid-19</a></li>
+                            <li><a href="#">Yoga</a></li>
                             <li><a href="#">Fitness</a></li>
-                            <li><a href="#">Sanitizers</a></li>
-                            <li><a href="#">N-95 Masks</a></li>
-                            <li><a href="#">Pandemic</a></li>
+                            <li><a href="#">Workouts</a></li>
+                            <li><a href="#">Foods</a></li>
+                            <li><a href="#">Nutrition</a></li>
                             <li><a href="#">Diet</a></li>
                           </ul>
                         </div>
